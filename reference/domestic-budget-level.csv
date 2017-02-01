@@ -681,7 +681,7 @@
 "net-external-finance","FALSE",2,"Net External Finance",
 "net-external-financing","FALSE",2,"Net External Financing",
 "net-foreign-finance-of-the-central-government","FALSE",3,"Net Foreign Finance of the Central Government",
-"net-incurrence-of-liabilities","FALSE",2,"Net incurrence of liabilities",
+"net-incurrence-of-liabilities","FALSE",2,"Net Incurrence of Liabilities",
 "net-inkind-us-loans","FALSE",3,"Net In-Kind US Loans",
 "net-issuance-of-bonds","FALSE",3,"Net Issuance of Bonds",
 "net-lending","FALSE",2,"Net lending",
@@ -1061,11 +1061,10 @@
 "retirement-funds-employer-contribution","FALSE",3,"Retirement Funds Employer Contribution",
 "retrocession-loans","FALSE",3,"Retrocession Loans",
 "returned-letters-of-credit","FALSE",2,"Returned Letters of Credit",
-"revenue","FALSE",2,"revenue","red-high"
+"revenue","FALSE",2,"Revenue","red-high"
 "revenue-equalization-and-reserve-fund","FALSE",3,"Revenue Equalization And Reserve Fund",
 "revenue-from-natural-resources-and-telecoms","FALSE",4,"Revenue from natural resources and telecoms",
 "revenue-from-oil-exports","FALSE",4,"Revenue from oil exports",
-"revenues","FALSE",2,"Revenues",
 "revenues-of-special-funds-and-means","FALSE",3,"Revenues of Special Funds and Means",
 "revolving-credit","FALSE",4,"Revolving Credit",
 "road-fund","FALSE",2,"Road Fund",
@@ -1164,7 +1163,7 @@
 "state-owned-enterprises--dividend-payments","FALSE",4,"State Owned Enterprises  dividend payments",
 "state-tax-revenue","FALSE",4,"State Tax Revenue",
 "states","FALSE",4,"States",
-"statistical-discrepancy","FALSE",2,"Statistical Discrepancy","grey-mid"
+"statistical-discrepancy","FALSE",2,"Statistical discrepancy","grey-mid"
 "statistical-fee","FALSE",4,"Statistical Fee",
 "statutory-authorities","FALSE",4,"Statutory Authorities",
 "statutory-expenditures","FALSE",4,"Statutory Expenditures",
@@ -1240,9 +1239,7 @@
 "to-nonresidents","FALSE",4,"to Nonresidents",
 "to-residents","FALSE",4,"to Residents",
 "total-expenditure","FALSE",1,"Total expenditure","purple-high"
-"total-grants","FALSE",2,"Total Grants",
-"total-revenue","FALSE",2,"Total Revenue",
-"total-revenue-and-grants","FALSE",1,"Total Revenue and Grants","purple-high"
+"total-revenue-and-grants","FALSE",1,"Total Revenue And Grants","purple-high"
 "tourism--8-bed-tax","FALSE",5,"Tourism  8 bed tax",
 "tourism-goods-and-services-tax","FALSE",5,"Tourism Goods and Services Tax",
 "trade-and-other","FALSE",4,"Trade and Other",
